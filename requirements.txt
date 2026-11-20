@@ -1,0 +1,11 @@
+# Python 3.13 (the study used Python 3.13.18 in Google Colab)
+# Versions below are the ones recorded in software_versions.csv during the study.
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==3.4.1
+shap==0.54.1
+matplotlib==3.10.0
+# The versions of the packages below were not recorded during the study.
+scipy
+openpyxl
